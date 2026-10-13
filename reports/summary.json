@@ -1,0 +1,11 @@
+{
+  "orders": 119629,
+  "total_revenue": 13279586.2,
+  "avg_order_value": 111.06,
+  "best_month": "2024-12",
+  "top_category": "electronics",
+  "top_category_share": 0.44,
+  "top20_products_revenue_share": 0.44,
+  "top20_customers_revenue_share": 0.609,
+  "best_channel": "organic"
+}
